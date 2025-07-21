@@ -1,12 +1,82 @@
-# React + Vite
+# CCNAPP Dashbaord
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  
+A Cloud-Native Application Protection Platform (CNAPP) dashboard for monitoring cloud security postures, workload protections, container image vulnerabilities, and security tickets.
 
-Currently, two official plugins are available:
+  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Includes product listing, detailed product view, add to cart functionality, and checkout page.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  
+
+## 📌 **Features**
+
+  
+
+ **Multi-category Widget System**:
+
+- CSPM (Cloud Security Posture Management)
+
+- CWPP (Cloud Workload Protection Platform)
+
+- Container Image Security
+
+- Ticket Management
+
+  
+ **Interactive Widget Management**:
+
+- Add/remove widgets dynamically
+
+- Toggle widget visibility
+
+- Customize widget metrics
+
+  
+
+**Real-time Security Data**:
+
+- Cloud account status monitoring
+
+- Risk assessment visualizations
+
+- Workload alert tracking
+
+- Vulnerability reporting
+
+  
+
+## 🛠 **Built With**
+
+  
+
+- React.js
+
+- [Tailwind CSS](https://tailwindcss.com/)
+
+  
+
+## 🚀 **Setup Instructions**
+
+  
+  
+
+```bash
+# 1. Clone the repository
+git  clone  https://github.com/inosgungun/CNAPP-Dashboard
+cd  your-repo
+
+# 2. Install dependencies
+npm  install 
+
+# 3. Run locally
+npm  run  dev
+```
+
+
+## 🌐 **Deployment**
+
+ 
+The app is live here:
+👉 **
